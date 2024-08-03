@@ -1,2 +1,1 @@
-# CNGALReverseNote
-国产/官中Galgame分析记录
+# 国产/官中Galgame分析记录
